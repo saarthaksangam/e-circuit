@@ -1,0 +1,17 @@
+
+.CardContainer
+{
+    margin-top: 10vh;
+}
+.rowItem
+{
+    padding-top:20px;
+}
+.submitButton
+{
+    padding: 7vh 0vh 3vh 0vh;
+
+}
+.List{
+  width: 230px;
+}
